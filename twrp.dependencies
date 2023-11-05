@@ -1,7 +1,7 @@
 [
   {
     "remote": "Mi-Thorium",
-    "repository": "android_device_xiaomi_kernel-mithorium",
+    "repository": "twrp_device_xiaomi_kernel-mithorium",
     "target_path": "device/xiaomi/kernel-mithorium",
     "branch": "master"
     
