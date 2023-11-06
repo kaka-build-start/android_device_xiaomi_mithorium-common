@@ -2,7 +2,7 @@
   {
     "remote": "Mi-Thorium",
     "repository": "twrp_device_xiaomi_kernel-mithorium",
-    "target_path": "device/xiaomi/kernel-mithorium",
+    "target_path": "device/xiaomi/kernel-mithorium/oxygen",
     "branch": "master"
     
   }
